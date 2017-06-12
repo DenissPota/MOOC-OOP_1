@@ -1,0 +1,9 @@
+*.xml
+*.jar
+/week1-023.Temperatures/build/classes/*.class
+*.class
+*.properties
+/week4-072.3.MoneyTransfers/*.mf
+*.mf
+*.txt
+test
